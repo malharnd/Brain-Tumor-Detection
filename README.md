@@ -15,6 +15,27 @@ We would like to acknowledge the contributions of [insert names or organizations
 ## Dataset
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data).
 
+## Sample Images of Brain Tumors
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 5px;">
+        <img src="test_images/meningioma.jpg" alt="Tumor 1" style="width: 200px; height: 200px;">
+        <p> Meningioma </p>
+    </div>
+    <div style="margin: 5px;">
+        <img src="test_images/glioma.jpg" alt="Tumor 2" style="width: 200px; height: 200px;">
+        <p> Glioma </p>
+    </div>
+    <div style="margin: 5px;">
+        <img src="test_images/notumor.jpg" alt="Tumor 3" style="width: 200px; height: 200px;">
+        <p> Notumor </p>
+    </div>
+    <div style="margin: 5px;">
+        <img src="test_images/pituitary.jpg" alt="Tumor 4" style="width: 200px; height: 200px;">
+        <p> Pituitary </p>
+    </div>
+</div>
+
 
 
 ## Key Terms
