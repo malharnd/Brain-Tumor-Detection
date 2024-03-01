@@ -2,9 +2,6 @@
 
 This project aims to detect brain tumors from MRI images using Convolutional Neural Networks (CNN). Two different CNN models were implemented: a simple CNN model and a VGG16-inspired CNN model.
 
-## Acknowledgement
-We would like to acknowledge the contributions of [insert names or organizations here] for their support and assistance in developing this project.
-
 ## Badges
 [![Python Version](https://img.shields.io/badge/python-3.8.18-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow Version](https://img.shields.io/badge/tensorflow-2.9.1-orange.svg)](https://www.tensorflow.org/)
