@@ -70,12 +70,12 @@ The dataset used for this project can be found [here](https://www.kaggle.com/dat
 ## Models
 ### CNN Model
 ![Simple CNN Model Results](/images/m1_model.png)
-**Figure 1: Simple CNN Model Results**
+**CNN Model Results**
 - The accuracy achieved with this model was 97% after 30 epochs.
 
 ### VGG16-Inspired CNN Model
 ![VGG16-Inspired CNN Model Results](/images/m2_model.png)
-**Figure 2: VGG16-Inspired CNN Model Results**
+**VGG16-Inspired CNN Model Results**
 - The accuracy achieved with this model was 97% after 15 epochs.
 
 ## Results
@@ -83,25 +83,25 @@ The dataset used for this project can be found [here](https://www.kaggle.com/dat
 ### CNN Model
 ![CNN Model Accuracy](/images/m1_acc.png)
 
-**Figure 3: CNN Model Accuracy**
+**CNN Model Accuracy**
 
 The accuracy plot for the CNN model shows a steady increase in accuracy over the epochs, reaching 97% after 30 epochs.
 
 ![CNN Model Loss](/images/m1_loss.png)
 
-**Figure 4: CNN Model Loss**
+**CNN Model Loss**
 
 - The loss plot for the CNN model demonstrates a decreasing trend, indicating that the model's performance improved during training.
 
 ### CNN Model VGG
 ![VGG16-Inspired CNN Model Accuracy](/images/m2_acc.png)
 
-**Figure 5: VGG16-Inspired CNN Model Accuracy**
+**VGG16-Inspired CNN Model Accuracy**
 
 - The accuracy plot for the VGG16-inspired CNN model shows rapid convergence, reaching 97% accuracy after just 15 epochs.
 
 ![VGG16-Inspired CNN Model Loss](/images/m2_loss.png)
 
-**Figure 6: VGG16-Inspired CNN Model Loss**
+**VGG16-Inspired CNN Model Loss**
 
 - The loss plot for the VGG16-inspired CNN model also exhibits a decreasing trend, indicating effective learning during training.
