@@ -1,4 +1,4 @@
-# Brain Tumor Detection Project
+# Brain Tumor Detection
 
 This project aims to detect brain tumors from MRI images using Convolutional Neural Networks (CNN). Two different CNN models were implemented: a simple CNN model and a VGG16-inspired CNN model.
 
